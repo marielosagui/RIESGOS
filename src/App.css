@@ -1,0 +1,75 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  font-size: calc(10px + 2vmin);
+}
+
+.App-link {
+  color: #a825c2;
+}
+
+.App-Dropzone{
+  height: 10vmin;
+  margin-left: 20vmin;
+  margin-right: 20vmin;
+  background-color: rgb(77, 179, 77);
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  border: 2px rgb(77, 179, 77) solid
+}
+.sections-wrapper{
+  flex: 1;
+  display: flex;
+  margin-left: 20vh;
+  margin-right: 20vh;
+}
+.section-json, .section-xml{
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: inherit;
+  text-align: center;
+}
+.json-string{
+  text-align: start;
+  padding-left: 50px;
+  margin-bottom: 20px;
+}
+.xml-string{
+  text-align: start;
+  margin-top: 20px;
+  padding-left: 50px;
+  margin-bottom: 20px;
+}
+.json-internal-node{
+  margin-left: 2px;
+}
+.xml-internal-node{
+  margin-left: 10px;
+}
+.json-data-node{
+  display: flex;
+  margin-left: 20px;
+}
+.xml-data-node{
+  display: flex;
+  margin-left: 30px;
+}
+.section-title{
+  text-align: center;
+}
+.dataset-title{
+  margin-right: 10px;
+}
+.p{
+  font-family:'Franklin Gothic Medium', sans-serif;
+}

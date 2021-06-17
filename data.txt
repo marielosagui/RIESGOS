@@ -1,0 +1,3 @@
+document,name,lastname,card,type,phone
+12345,Jaime,Climaco,00000000-1,GOLD,22222222
+
