@@ -4,7 +4,10 @@ El siguiente proyecto fue realizado con React Js, TypeScript con la dependencia 
 Para la ejecucion del programa:
  1. **Yarn install**
  2.  **Yarn start**
-Ruta: localhost:3000
+
+
+
+-Ruta: localhost:3000
 
 
 
