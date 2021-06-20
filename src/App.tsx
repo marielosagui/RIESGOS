@@ -10,7 +10,7 @@ function App() {
     const [fileType, setFileType] = React.useState<string | null>(null)
     const [file, setFile] = React.useState()
     const [dataset, setDataset] = React.useState(null)
-    const [delimitador, setDelimitador] = React.useState(',')
+    const [delimitador, setDelimitador] = React.useState(';')
     const [clave, setClave] = React.useState("")
     const [ok, setOk] = React.useState(false)
 

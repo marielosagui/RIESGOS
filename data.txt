@@ -1,3 +1,4 @@
-document,name,lastname,card,type,phone
-12345,Jaime,Climaco,00000000-1,GOLD,22222222
+"document";"name";"lastname";"card";"type";"phone"
+12345;Jaime;Climaco;00000000-1;GOLD;22222222
+00001;Marielos;Aguilar;000000000000-3;77777777
 
